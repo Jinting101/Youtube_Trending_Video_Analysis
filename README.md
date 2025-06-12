@@ -153,7 +153,7 @@ To ensure robust model performance, it’s important to address outliers, partic
 
 The main outlier handling strategy employs model-based filtering. A primary regression model (e.g., Random Forest) is trained to predict `views`. Subsequently, to detect if a new or existing video is an outlier, its features are fed into this model, and the normalized error of the prediction is calculated. Videos exhibiting a significantly high normalized error, indicating a substantial deviation from learned engagement patterns, are identified as outliers and can be removed or flagged for review.
 
-#### ✅ Conclusion
+#### ✅ Performance
 
 The model-based outlier detection process was highly effective—**1,958 anomalous data points** were removed. After cleaning, the Random Forest Regressor achieved an **R² score of 0.99**, indicating a near-perfect fit and highlighting the critical role of outlier removal for building a reliable prediction model.
 
