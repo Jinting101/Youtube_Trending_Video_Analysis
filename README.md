@@ -11,7 +11,7 @@
 - [📊Dataset Description](#-dataset-description)
 - [⚙️Methodology & Analysis Pipeline](#️-methodology--analysis-pipeline)
 - [✨ Key Insights for Advertising Strategy](#-key-insights-for-advertising-strategy)
-- [📈 Results](#-resultes)
+- [📈 Results](#-results)
 - [🚀 Conclusion](#-conclusion)
 - [💻 Technologies Used](#-technologies-used)
 - [🏗️ Future Work](#️-future-work)
@@ -246,7 +246,7 @@ This forecasting tool provides a powerful strategic advantage, allowing advertis
 
 ---
 
-## 🚀  Conclusion
+## 🚀 Conclusion
 
 An end-to-end system that transforms raw video metrics into **strategic advertising advantages**:
 
